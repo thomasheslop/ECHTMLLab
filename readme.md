@@ -21,3 +21,9 @@ name
 in the address bar (EX: google.com/buttercups)
 
 **BONUS** Add the school logo next to the name of the school
+
+**BONUS** Search up how to use grid rows and divide your page
+into grids and columns. 
+
+**BONUS** Google what flex box is! Use flex box to align your 
+items into their sections more appropriately 
